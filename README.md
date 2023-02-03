@@ -1,2 +1,1 @@
-# alchemy-jackbox
-moved to spiderforrest/subturingfuge
+# moved to spiderforrest/subturingfuge
