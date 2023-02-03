@@ -1,1 +1,1 @@
-# moved to spiderforrest/subturingfuge
+# moved to [spiderforrest/subturingfuge](https://github.com/spiderforrest/subturingfuge)
